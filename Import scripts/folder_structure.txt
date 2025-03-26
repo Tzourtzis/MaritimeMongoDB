@@ -1,0 +1,373 @@
+C:\Users\DIAMAT\Desktop\MongoDB\Data\Extracted>tree /f
+Folder PATH listing
+Volume serial number is 705C-A837
+C:.
++---ais_static
+¦   ¦   README.md
+¦   ¦
+¦   L---ais_static
+¦           ais_codes_descriptions.csv
+¦           unipi_ais_static.csv
+¦
++---geodata
+¦   ¦   README.md
+¦   ¦
+¦   +---harbours
+¦   ¦       harbours.cpg
+¦   ¦       harbours.dbf
+¦   ¦       harbours.prj
+¦   ¦       harbours.shp
+¦   ¦       harbours.shx
+¦   ¦
+¦   +---islands
+¦   ¦       islands.cpg
+¦   ¦       islands.dbf
+¦   ¦       islands.prj
+¦   ¦       islands.shp
+¦   ¦       islands.shx
+¦   ¦
+¦   +---piraeus_port
+¦   ¦       piraeus_port.cpg
+¦   ¦       piraeus_port.dbf
+¦   ¦       piraeus_port.prj
+¦   ¦       piraeus_port.shp
+¦   ¦       piraeus_port.shx
+¦   ¦
+¦   +---receiver_location
+¦   ¦       receiver_location.cpg
+¦   ¦       receiver_location.dbf
+¦   ¦       receiver_location.prj
+¦   ¦       receiver_location.shp
+¦   ¦       receiver_location.shx
+¦   ¦
+¦   +---regions
+¦   ¦       regions.dbf
+¦   ¦       regions.prj
+¦   ¦       regions.shp
+¦   ¦       regions.shx
+¦   ¦
+¦   +---spatial_coverage
+¦   ¦       spatial_coverage.cpg
+¦   ¦       spatial_coverage.dbf
+¦   ¦       spatial_coverage.prj
+¦   ¦       spatial_coverage.shp
+¦   ¦       spatial_coverage.shx
+¦   ¦
+¦   L---territorial_waters
+¦           saronic_territorial_waters.cpg
+¦           saronic_territorial_waters.dbf
+¦           saronic_territorial_waters.prj
+¦           saronic_territorial_waters.shp
+¦           saronic_territorial_waters.shx
+¦
++---noaa_weather
+¦   ¦   README.md
+¦   ¦
+¦   L---noaa_weather
+¦       +---2017
+¦       ¦   +---aug
+¦       ¦   ¦       noaa_weather_aug2017_v2.cpg
+¦       ¦   ¦       noaa_weather_aug2017_v2.dbf
+¦       ¦   ¦       noaa_weather_aug2017_v2.prj
+¦       ¦   ¦       noaa_weather_aug2017_v2.shp
+¦       ¦   ¦       noaa_weather_aug2017_v2.shx
+¦       ¦   ¦
+¦       ¦   +---dec
+¦       ¦   ¦       noaa_weather_dec2017_v2.cpg
+¦       ¦   ¦       noaa_weather_dec2017_v2.dbf
+¦       ¦   ¦       noaa_weather_dec2017_v2.prj
+¦       ¦   ¦       noaa_weather_dec2017_v2.shp
+¦       ¦   ¦       noaa_weather_dec2017_v2.shx
+¦       ¦   ¦
+¦       ¦   +---jul
+¦       ¦   ¦       noaa_weather_jul2017_v2.cpg
+¦       ¦   ¦       noaa_weather_jul2017_v2.dbf
+¦       ¦   ¦       noaa_weather_jul2017_v2.prj
+¦       ¦   ¦       noaa_weather_jul2017_v2.shp
+¦       ¦   ¦       noaa_weather_jul2017_v2.shx
+¦       ¦   ¦
+¦       ¦   +---jun
+¦       ¦   ¦       noaa_weather_jun2017_v2.cpg
+¦       ¦   ¦       noaa_weather_jun2017_v2.dbf
+¦       ¦   ¦       noaa_weather_jun2017_v2.prj
+¦       ¦   ¦       noaa_weather_jun2017_v2.shp
+¦       ¦   ¦       noaa_weather_jun2017_v2.shx
+¦       ¦   ¦
+¦       ¦   +---may
+¦       ¦   ¦       noaa_weather_may2017_v2.cpg
+¦       ¦   ¦       noaa_weather_may2017_v2.dbf
+¦       ¦   ¦       noaa_weather_may2017_v2.prj
+¦       ¦   ¦       noaa_weather_may2017_v2.shp
+¦       ¦   ¦       noaa_weather_may2017_v2.shx
+¦       ¦   ¦
+¦       ¦   +---nov
+¦       ¦   ¦       noaa_weather_nov2017_v2.cpg
+¦       ¦   ¦       noaa_weather_nov2017_v2.dbf
+¦       ¦   ¦       noaa_weather_nov2017_v2.prj
+¦       ¦   ¦       noaa_weather_nov2017_v2.shp
+¦       ¦   ¦       noaa_weather_nov2017_v2.shx
+¦       ¦   ¦
+¦       ¦   +---oct
+¦       ¦   ¦       noaa_weather_oct2017_v2.cpg
+¦       ¦   ¦       noaa_weather_oct2017_v2.dbf
+¦       ¦   ¦       noaa_weather_oct2017_v2.prj
+¦       ¦   ¦       noaa_weather_oct2017_v2.shp
+¦       ¦   ¦       noaa_weather_oct2017_v2.shx
+¦       ¦   ¦
+¦       ¦   L---sep
+¦       ¦           noaa_weather_sep2017_v2.cpg
+¦       ¦           noaa_weather_sep2017_v2.dbf
+¦       ¦           noaa_weather_sep2017_v2.prj
+¦       ¦           noaa_weather_sep2017_v2.shp
+¦       ¦           noaa_weather_sep2017_v2.shx
+¦       ¦
+¦       +---2018
+¦       ¦   +---apr
+¦       ¦   ¦       noaa_weather_apr2018_v2.cpg
+¦       ¦   ¦       noaa_weather_apr2018_v2.dbf
+¦       ¦   ¦       noaa_weather_apr2018_v2.prj
+¦       ¦   ¦       noaa_weather_apr2018_v2.shp
+¦       ¦   ¦       noaa_weather_apr2018_v2.shx
+¦       ¦   ¦
+¦       ¦   +---aug
+¦       ¦   ¦       noaa_weather_aug2018_v2.cpg
+¦       ¦   ¦       noaa_weather_aug2018_v2.dbf
+¦       ¦   ¦       noaa_weather_aug2018_v2.prj
+¦       ¦   ¦       noaa_weather_aug2018_v2.shp
+¦       ¦   ¦       noaa_weather_aug2018_v2.shx
+¦       ¦   ¦
+¦       ¦   +---dec
+¦       ¦   ¦       noaa_weather_dec2018_v2.cpg
+¦       ¦   ¦       noaa_weather_dec2018_v2.dbf
+¦       ¦   ¦       noaa_weather_dec2018_v2.prj
+¦       ¦   ¦       noaa_weather_dec2018_v2.shp
+¦       ¦   ¦       noaa_weather_dec2018_v2.shx
+¦       ¦   ¦
+¦       ¦   +---feb
+¦       ¦   ¦       noaa_weather_feb2018_v2.cpg
+¦       ¦   ¦       noaa_weather_feb2018_v2.dbf
+¦       ¦   ¦       noaa_weather_feb2018_v2.prj
+¦       ¦   ¦       noaa_weather_feb2018_v2.shp
+¦       ¦   ¦       noaa_weather_feb2018_v2.shx
+¦       ¦   ¦
+¦       ¦   +---jan
+¦       ¦   ¦       noaa_weather_jan2018_v2.cpg
+¦       ¦   ¦       noaa_weather_jan2018_v2.dbf
+¦       ¦   ¦       noaa_weather_jan2018_v2.prj
+¦       ¦   ¦       noaa_weather_jan2018_v2.shp
+¦       ¦   ¦       noaa_weather_jan2018_v2.shx
+¦       ¦   ¦
+¦       ¦   +---jul
+¦       ¦   ¦       noaa_weather_jul2018_v2.cpg
+¦       ¦   ¦       noaa_weather_jul2018_v2.dbf
+¦       ¦   ¦       noaa_weather_jul2018_v2.prj
+¦       ¦   ¦       noaa_weather_jul2018_v2.shp
+¦       ¦   ¦       noaa_weather_jul2018_v2.shx
+¦       ¦   ¦
+¦       ¦   +---jun
+¦       ¦   ¦       noaa_weather_jun2018_v2.cpg
+¦       ¦   ¦       noaa_weather_jun2018_v2.dbf
+¦       ¦   ¦       noaa_weather_jun2018_v2.prj
+¦       ¦   ¦       noaa_weather_jun2018_v2.shp
+¦       ¦   ¦       noaa_weather_jun2018_v2.shx
+¦       ¦   ¦
+¦       ¦   +---mar
+¦       ¦   ¦       noaa_weather_mar2018_v2.cpg
+¦       ¦   ¦       noaa_weather_mar2018_v2.dbf
+¦       ¦   ¦       noaa_weather_mar2018_v2.prj
+¦       ¦   ¦       noaa_weather_mar2018_v2.shp
+¦       ¦   ¦       noaa_weather_mar2018_v2.shx
+¦       ¦   ¦
+¦       ¦   +---may
+¦       ¦   ¦       noaa_weather_may2018_v2.cpg
+¦       ¦   ¦       noaa_weather_may2018_v2.dbf
+¦       ¦   ¦       noaa_weather_may2018_v2.prj
+¦       ¦   ¦       noaa_weather_may2018_v2.shp
+¦       ¦   ¦       noaa_weather_may2018_v2.shx
+¦       ¦   ¦
+¦       ¦   +---nov
+¦       ¦   ¦       noaa_weather_nov2018_v2.cpg
+¦       ¦   ¦       noaa_weather_nov2018_v2.dbf
+¦       ¦   ¦       noaa_weather_nov2018_v2.prj
+¦       ¦   ¦       noaa_weather_nov2018_v2.shp
+¦       ¦   ¦       noaa_weather_nov2018_v2.shx
+¦       ¦   ¦
+¦       ¦   +---oct
+¦       ¦   ¦       noaa_weather_oct2018_v2.cpg
+¦       ¦   ¦       noaa_weather_oct2018_v2.dbf
+¦       ¦   ¦       noaa_weather_oct2018_v2.prj
+¦       ¦   ¦       noaa_weather_oct2018_v2.shp
+¦       ¦   ¦       noaa_weather_oct2018_v2.shx
+¦       ¦   ¦
+¦       ¦   L---sep
+¦       ¦           noaa_weather_sep2018_v2.cpg
+¦       ¦           noaa_weather_sep2018_v2.dbf
+¦       ¦           noaa_weather_sep2018_v2.prj
+¦       ¦           noaa_weather_sep2018_v2.shp
+¦       ¦           noaa_weather_sep2018_v2.shx
+¦       ¦
+¦       L---2019
+¦           +---apr
+¦           ¦       noaa_weather_apr2019_v2.cpg
+¦           ¦       noaa_weather_apr2019_v2.dbf
+¦           ¦       noaa_weather_apr2019_v2.prj
+¦           ¦       noaa_weather_apr2019_v2.shp
+¦           ¦       noaa_weather_apr2019_v2.shx
+¦           ¦
+¦           +---aug
+¦           ¦       noaa_weather_aug2019_v2.cpg
+¦           ¦       noaa_weather_aug2019_v2.dbf
+¦           ¦       noaa_weather_aug2019_v2.prj
+¦           ¦       noaa_weather_aug2019_v2.shp
+¦           ¦       noaa_weather_aug2019_v2.shx
+¦           ¦
+¦           +---dec
+¦           ¦       noaa_weather_dec2019_v2.cpg
+¦           ¦       noaa_weather_dec2019_v2.dbf
+¦           ¦       noaa_weather_dec2019_v2.prj
+¦           ¦       noaa_weather_dec2019_v2.shp
+¦           ¦       noaa_weather_dec2019_v2.shx
+¦           ¦
+¦           +---feb
+¦           ¦       noaa_weather_feb2019_v2.cpg
+¦           ¦       noaa_weather_feb2019_v2.dbf
+¦           ¦       noaa_weather_feb2019_v2.prj
+¦           ¦       noaa_weather_feb2019_v2.shp
+¦           ¦       noaa_weather_feb2019_v2.shx
+¦           ¦
+¦           +---jan
+¦           ¦       noaa_weather_jan2019_v2.cpg
+¦           ¦       noaa_weather_jan2019_v2.dbf
+¦           ¦       noaa_weather_jan2019_v2.prj
+¦           ¦       noaa_weather_jan2019_v2.shp
+¦           ¦       noaa_weather_jan2019_v2.shx
+¦           ¦
+¦           +---jul
+¦           ¦       noaa_weather_jul2019_v2.cpg
+¦           ¦       noaa_weather_jul2019_v2.dbf
+¦           ¦       noaa_weather_jul2019_v2.prj
+¦           ¦       noaa_weather_jul2019_v2.shp
+¦           ¦       noaa_weather_jul2019_v2.shx
+¦           ¦
+¦           +---jun
+¦           ¦       noaa_weather_jun2019_v2.cpg
+¦           ¦       noaa_weather_jun2019_v2.dbf
+¦           ¦       noaa_weather_jun2019_v2.prj
+¦           ¦       noaa_weather_jun2019_v2.shp
+¦           ¦       noaa_weather_jun2019_v2.shx
+¦           ¦
+¦           +---mar
+¦           ¦       noaa_weather_mar2019_v2.cpg
+¦           ¦       noaa_weather_mar2019_v2.dbf
+¦           ¦       noaa_weather_mar2019_v2.prj
+¦           ¦       noaa_weather_mar2019_v2.shp
+¦           ¦       noaa_weather_mar2019_v2.shx
+¦           ¦
+¦           +---may
+¦           ¦       noaa_weather_may2019_v2.cpg
+¦           ¦       noaa_weather_may2019_v2.dbf
+¦           ¦       noaa_weather_may2019_v2.prj
+¦           ¦       noaa_weather_may2019_v2.shp
+¦           ¦       noaa_weather_may2019_v2.shx
+¦           ¦
+¦           +---nov
+¦           ¦       noaa_weather_nov2019_v2.cpg
+¦           ¦       noaa_weather_nov2019_v2.dbf
+¦           ¦       noaa_weather_nov2019_v2.prj
+¦           ¦       noaa_weather_nov2019_v2.shp
+¦           ¦       noaa_weather_nov2019_v2.shx
+¦           ¦
+¦           +---oct
+¦           ¦       noaa_weather_oct2019_v2.cpg
+¦           ¦       noaa_weather_oct2019_v2.dbf
+¦           ¦       noaa_weather_oct2019_v2.prj
+¦           ¦       noaa_weather_oct2019_v2.shp
+¦           ¦       noaa_weather_oct2019_v2.shx
+¦           ¦
+¦           L---sep
+¦                   noaa_weather_sep2019_v2.cpg
+¦                   noaa_weather_sep2019_v2.dbf
+¦                   noaa_weather_sep2019_v2.prj
+¦                   noaa_weather_sep2019_v2.shp
+¦                   noaa_weather_sep2019_v2.shx
+¦
++---unipi_ais_dynamic_2017
+¦       README.md
+¦       unipi_ais_dynamic_aug2017.csv
+¦       unipi_ais_dynamic_dec2017.csv
+¦       unipi_ais_dynamic_jul2017.csv
+¦       unipi_ais_dynamic_jun2017.csv
+¦       unipi_ais_dynamic_may2017.csv
+¦       unipi_ais_dynamic_nov2017.csv
+¦       unipi_ais_dynamic_oct2017.csv
+¦       unipi_ais_dynamic_sep2017.csv
+¦
++---unipi_ais_dynamic_2018
+¦       README.md
+¦       unipi_ais_dynamic_apr2018.csv
+¦       unipi_ais_dynamic_aug2018.csv
+¦       unipi_ais_dynamic_dec2018.csv
+¦       unipi_ais_dynamic_feb2018.csv
+¦       unipi_ais_dynamic_jan2018.csv
+¦       unipi_ais_dynamic_jul2018.csv
+¦       unipi_ais_dynamic_jun2018.csv
+¦       unipi_ais_dynamic_mar2018.csv
+¦       unipi_ais_dynamic_may2018.csv
+¦       unipi_ais_dynamic_nov2018.csv
+¦       unipi_ais_dynamic_oct2018.csv
+¦       unipi_ais_dynamic_sep2018.csv
+¦
++---unipi_ais_dynamic_2019
+¦       README.md
+¦       unipi_ais_dynamic_apr2019.csv
+¦       unipi_ais_dynamic_aug2019.csv
+¦       unipi_ais_dynamic_dec2019.csv
+¦       unipi_ais_dynamic_feb2019.csv
+¦       unipi_ais_dynamic_jan2019.csv
+¦       unipi_ais_dynamic_jul2019.csv
+¦       unipi_ais_dynamic_jun2019.csv
+¦       unipi_ais_dynamic_mar2019.csv
+¦       unipi_ais_dynamic_may2019.csv
+¦       unipi_ais_dynamic_nov2019.csv
+¦       unipi_ais_dynamic_oct2019.csv
+¦       unipi_ais_dynamic_sep2019.csv
+¦
+L---unipi_ais_dynamic_synopses
+    L---ais_synopses
+        +---2017
+        ¦       unipi_ais_synopses_aug_2017.csv
+        ¦       unipi_ais_synopses_dec_2017.csv
+        ¦       unipi_ais_synopses_jul_2017.csv
+        ¦       unipi_ais_synopses_jun_2017.csv
+        ¦       unipi_ais_synopses_may_2017.csv
+        ¦       unipi_ais_synopses_nov_2017.csv
+        ¦       unipi_ais_synopses_oct_2017.csv
+        ¦       unipi_ais_synopses_sep_2017.csv
+        ¦
+        +---2018
+        ¦       unipi_ais_synopses_apr_2018.csv
+        ¦       unipi_ais_synopses_aug_2018.csv
+        ¦       unipi_ais_synopses_dec_2018.csv
+        ¦       unipi_ais_synopses_feb_2018.csv
+        ¦       unipi_ais_synopses_jan_2018.csv
+        ¦       unipi_ais_synopses_jul_2018.csv
+        ¦       unipi_ais_synopses_jun_2018.csv
+        ¦       unipi_ais_synopses_mar_2018.csv
+        ¦       unipi_ais_synopses_may_2018.csv
+        ¦       unipi_ais_synopses_nov_2018.csv
+        ¦       unipi_ais_synopses_oct_2018.csv
+        ¦       unipi_ais_synopses_sep_2018.csv
+        ¦
+        L---2019
+                unipi_ais_synopses_apr_2019.csv
+                unipi_ais_synopses_aug_2019.csv
+                unipi_ais_synopses_dec_2019.csv
+                unipi_ais_synopses_feb_2019.csv
+                unipi_ais_synopses_jan_2019.csv
+                unipi_ais_synopses_jul_2019.csv
+                unipi_ais_synopses_jun_2019.csv
+                unipi_ais_synopses_mar_2019.csv
+                unipi_ais_synopses_may_2019.csv
+                unipi_ais_synopses_nov_2019.csv
+                unipi_ais_synopses_oct_2019.csv
+                unipi_ais_synopses_sep_2019.csv
