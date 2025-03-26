@@ -89,7 +89,7 @@ Experiments demonstrated that **compound indexes** on spatial and temporal field
 ## 📚 References
 
 - MongoDB Docs: https://www.mongodb.com/docs/manual/  
-- Piraeus AIS Dataset: https://doi.org/10.1016/j.dib.2021.107782  
+- Piraeus AIS Dataset: [https://doi.org/10.1016/j.dib.2021.107782  ](https://zenodo.org/records/6323416)
 - Bradshaw et al., *MongoDB: The Definitive Guide*, O'Reilly, 2020
 
 ---
