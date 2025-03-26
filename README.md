@@ -86,12 +86,4 @@ Experiments demonstrated that **compound indexes** on spatial and temporal field
 
 ---
 
-## 📚 References
-
-- MongoDB Docs: https://www.mongodb.com/docs/manual/  
-- Piraeus AIS Dataset: https://zenodo.org/records/6323416
-- Bradshaw et al., *MongoDB: The Definitive Guide*, O'Reilly, 2020
-
----
-
 Feel free to fork this repo, run the scripts, and explore maritime data at scale 🌍📦
